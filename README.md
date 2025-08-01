@@ -107,7 +107,7 @@ A API estará disponível em `http://localhost:8080`. O Flyway executará as mig
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/kirah-dev/forumhub/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Kirah-Dev/forumhub/blob/main/README.md) para mais detalhes.
 
 ---
 
